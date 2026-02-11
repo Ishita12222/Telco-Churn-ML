@@ -114,7 +114,7 @@ F1-Score
 
 &nbsp;Logistic Regression  0.81      0.56              0.61               
 
-&nbsp;Random Forest        0.77      0.73             |0.63               
+&nbsp;Random Forest        0.77      0.73              0.63               
 
 
 
